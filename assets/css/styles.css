@@ -506,11 +506,14 @@ skills__title {
 }
 
 .skills__javascript {
-  width: 80%;
+  width: 95%;
 }
 
 .skills__react {
-  width: 75%;
+  width: 95%;
+}
+.skills__type {
+  width: 85%;
 }
 
 .skills__python {
@@ -521,8 +524,8 @@ skills__title {
   width: 50%;
 }
 
-.skills__php {
-  width: 30%;
+.skills__golang {
+  width: 50%;
 }
 
 .skills__firebase {
